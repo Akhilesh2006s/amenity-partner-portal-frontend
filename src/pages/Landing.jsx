@@ -89,7 +89,7 @@ export default function Landing() {
                 <span className="text-primary">{brand.name}</span>
               </h1>
               <p className="mt-6 text-lg text-muted-foreground max-w-lg leading-relaxed">
-                {brand.tagline} Track every school lead, conversion, and rupee — without spreadsheets or guesswork.
+                {brand.tagline}
               </p>
               <div className="mt-8 flex flex-wrap gap-3">
                 <Link to="/login" data-testid="hero-cta-login" className="btn-primary h-12 px-6 text-base shadow-md">
