@@ -13,7 +13,7 @@ export const BRANDS = {
     key: "c-forgia",
     name: "C-Forgia",
     label: "C-Forgia Partner Portal",
-    tagline: "Partner For Crm and Digital Marketing Related Products",
+    tagline: "Partner For CRM and Digital Marketing Products",
     accentHex: "#002FA7",
     short: "CFG",
   },
